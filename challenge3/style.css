@@ -1,11 +1,29 @@
 /* Add your code in each class */
+
 .container {
+  position: sticky;
+  top: 0;
+  background-color: bisque;
+  height: 300px;
+  width: 400px;
+  overflow: auto;
+  border: 1px solid #000;
 }
 .head {
+  position: sticky;
+  top: 0;
+  font-family: Monospace;
+  font-weight: bold;
+  font-size: 40px;
+  margin: auto;
+  align-self: center;
+  background-color: darkcyan;
+  color: navajowhite;
 }
 
 .row {
   /* .row is used in ./index.js not in the html filee */
+  background-color: bisque;
 }
 
 /* This is a gift - Does not need editing */

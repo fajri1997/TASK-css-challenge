@@ -1,0 +1,27 @@
+body {
+  background-color: darkslateblue;
+  text-align: center;
+}
+h1 {
+  color: white;
+
+  font-size: 50px;
+}
+p {
+  color: white;
+
+  font-size: 22px;
+  font-family: "Ruge Boogie", cursive;
+  font-weight: 200;
+  font-style: normal;
+}
+img {
+  width: 250px;
+  height: 400px;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
